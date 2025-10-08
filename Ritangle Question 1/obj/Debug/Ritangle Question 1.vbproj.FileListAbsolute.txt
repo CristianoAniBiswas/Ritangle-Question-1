@@ -1,0 +1,11 @@
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\bin\Debug\Ritangle Question 1.exe.config
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\bin\Debug\Ritangle Question 1.exe
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\bin\Debug\Ritangle Question 1.pdb
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\bin\Debug\Ritangle Question 1.xml
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\obj\Debug\Ritangle Question 1.vbproj.AssemblyReference.cache
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\obj\Debug\Ritangle_Question_1.Resources.resources
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\obj\Debug\Ritangle Question 1.vbproj.GenerateResource.cache
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\obj\Debug\Ritangle Question 1.vbproj.CoreCompileInputs.cache
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\obj\Debug\Ritangle Question 1.exe
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\obj\Debug\Ritangle Question 1.xml
+C:\Users\ainee\source\repos\Ritangle Question 1\Ritangle Question 1\obj\Debug\Ritangle Question 1.pdb
